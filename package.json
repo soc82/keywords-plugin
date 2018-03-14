@@ -1,0 +1,31 @@
+{
+  "name": "pa-keywords",
+  "version": "1.0.0",
+  "description": "Keywords example plugin",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "^0.0.8",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-jslint": "^1.0.10",
+    "gulp-jsvalidate": "^4.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "http-proxy": "^1.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "no test command required"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soc82/keywords-plugin.git"
+  },
+  "author": "soc82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soc82/keywords-plugin/issues"
+  },
+  "homepage": "https://github.com/soc82/keywords-plugin#readme"
+}
